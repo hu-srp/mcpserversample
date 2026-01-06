@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "mcp-server-sample": {
+      "url": "http://localhost:3001/mcp",
+      "headers": {
+        "Authorization": "Bearer sk_Timni-OOFo4W6r5IWxDGAmy_EPpAMoKGbPr6DZ2Pwwa"
+      }
+    }
+  }
+}
